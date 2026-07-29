@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shankari D J</h1>
+<h1 align="center">Hi, I'm Shankari D J</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Data+Science+Learner;Flask+Developer;Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Aspirant+Python+Developer;Data+Science+Learner;Flask+Developer;Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,sql,html,css,javascript,mysql" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,mysql" />
 </p>
 
 ### Frameworks & Tools
@@ -80,14 +80,6 @@ All modules are available through a single platform for faculty and students.
 A Machine Learning application that analyzes speech characteristics to evaluate communication quality and predict suitable job domains.
 
 **Tech Stack:** Python • Flask • Librosa • Scikit-learn
-
----
-
-### 💼 AI Job Market Analysis Platform
-
-A web scraping and analytics system that collects job postings from multiple companies, analyzes hiring trends, required skills, and provides career insights.
-
-**Tech Stack:** Python • BeautifulSoup • Playwright • Pandas
 
 ---
 
